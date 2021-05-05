@@ -1,6 +1,6 @@
 # Ironman_Dance_AR
-Sorry the Apk is too big... Email me to get the apk 
-kangheng98@gmail.com
+Sorry the Apk is too big... Click the link to download the apk
+https://drive.google.com/file/d/1BDcmUp6o7b1pSpceNtkVD5BKRpz1YZYc/view?usp=sharing
 
 This project is used by unity
 
